@@ -1,7 +1,0 @@
-python-telegram-bot==21.3
-google-generativeai>=0.7.0
-gspread>=6.0.0
-google-auth>=2.29.0
-google-api-python-client>=2.126.0
-Pillow>=10.0.0
-pyzbar>=0.1.9
