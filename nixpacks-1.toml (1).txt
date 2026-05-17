@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["python311", "tesseract4", "leptonica"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
